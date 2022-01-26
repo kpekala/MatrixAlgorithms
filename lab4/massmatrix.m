@@ -1,4 +1,4 @@
-function [A] = massmatrix(riga=1,nxx=5,pxx=2,rxx=0)
+function [A] = massmatrix(riga,nxx,pxx,rxx)
 
 %riga: 0=iga, 1=mes, 2=riga
 
